@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "fs-extra": "^8.1.0",
     "vuepress": "^1.2.0",
     "vuepress-plugin-clean-urls": "^1.1.1"
   },

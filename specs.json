@@ -1,0 +1,10 @@
+[
+  {
+    "id": "39-UNGAS",
+    "url": "https://ep.corepaper.org/compatibility/forward/#remove-gas-observables-and-better-error-handling"
+  },
+  {
+    "id": "40-UNUSED",
+    "url": "https://ep.corepaper.org/compatibility/forward/#disable-deployment-of-unused-opcodes"
+  }
+]

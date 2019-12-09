@@ -17,5 +17,6 @@ module.exports = {
         notFoundPath: '/404.html',
       },
     ],
+    require("./redirects.js"),
   ],
 };
