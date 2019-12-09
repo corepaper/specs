@@ -3,7 +3,19 @@
 This repository contains redirect links for specifications with a **Core
 Paper Identifier**.
 
-* **[39-UNGAS](https://specs.corepaper.org/39-ungas)**: Remove Gas
-  Observables and Better Error Handling.
-* **[40-UNUSED](https://specs.corepaper.org/40-unused)**: Disable
-  Deployment of Unused Opcodes.
+<ul>
+  <li v-for="spec in specs">
+    <strong><a :href="spec.url">{{ spec.id }}</a></strong>:
+    {{ spec.description }}
+  </li>
+</ul>
+
+<script>
+export default {
+  data () {
+      return {
+          specs: require("./specs.json")
+      }
+  }
+}
+</script>
