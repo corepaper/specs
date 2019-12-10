@@ -8,5 +8,10 @@
     "id": "40-UNUSED",
     "description": "Disable Deployment of Unused Opcodes",
     "url": "https://ep.corepaper.org/compatibility/forward/#disable-deployment-of-unused-opcodes"
+  },
+  {
+    "id": "46-CHECKPOINT",
+    "description": "Explicit Checkpointing",
+    "url": "https://ep.corepaper.org/error/execution/#explicit-checkpointing"
   }
 ]
