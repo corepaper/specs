@@ -8,7 +8,18 @@ const specs = require("../specs.json")
 let redirectPages = []
 for (const spec of specs) {
   const content = Mustache.render(
-    redirectTemplate, spec
+    redirectTemplate, {
+      title: spec.id,
+      description: spec.description,
+      url: spec.url,
+    }
+  );
+  const discussContent = Mustache.render(
+    redirectTemplate, {
+      title: "Discussion: " + spec.id,
+      description: spec.description,
+      url: spec.discussUrl,
+    }
   );
 
   redirectPages.push({
@@ -16,8 +27,16 @@ for (const spec of specs) {
     content,
   });
   redirectPages.push({
+    path: spec.id + "/discuss/index.html",
+    content: discussContent,
+  });
+  redirectPages.push({
     path: spec.id.toLowerCase() + "/index.html",
     content,
+  });
+  redirectPages.push({
+    path: spec.id.toLowerCase() + "/discuss/index.html",
+    content: discussContent,
   });
 }
 
