@@ -9,3 +9,5 @@ Paper Identifier**.
   Deployment of Unused Opcodes.
 * **[46-CHECKPOINT](https://specs.corepaper.org/46-checkpoint)**:
   Explicit Checkpointing.
+* **[47-CPYM](https://specs.corepaper.org/47-cpym)**: Consistent
+  Copy-to-memory Behavior.
