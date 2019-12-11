@@ -15,3 +15,6 @@ Paper Identifier**.
 * **[47-CPYM](https://specs.corepaper.org/47-cpym)**: Consistent
   Copy-to-memory
   Behavior. ([Discuss](https://specs.corepaper.org/47-cpym/discuss))
+* **[48-GROWM](https://specs.corepaper.org/48-growm)**: Explicit
+  Memory
+  Growth. ([Discuss](https://specs.corepaper.org/48-growm/discuss))

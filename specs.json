@@ -22,5 +22,11 @@
     "description": "Consistent Copy-to-memory Behavior",
     "url": "https://ep.corepaper.org/error/opcode/#consistent-copy-to-memory-behavior",
     "discussUrl": "https://github.com/corepaper/ep/issues/2"
+  },
+  {
+    "id": "48-GROWM",
+    "description": "Explicit Memory Growth",
+    "url": "https://ep.corepaper.org/error/opcode/#explicit-memory-growth",
+    "discussUrl": "https://github.com/corepaper/ep/issues/2"
   }
 ]
