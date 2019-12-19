@@ -2,31 +2,31 @@
   {
     "id": "39-UNGAS",
     "description": "Remove Gas Observables and Better Error Handling",
-    "url": "https://ep.corepaper.org/compatibility/forward/#remove-gas-observables-and-better-error-handling",
+    "url": "https://ethereum.corepaper.org/compatibility/forward/#remove-gas-observables-and-better-error-handling",
     "discussUrl": "https://github.com/corepaper/ep/issues/1"
   },
   {
     "id": "40-UNUSED",
     "description": "Disable Deployment of Unused Opcodes",
-    "url": "https://ep.corepaper.org/compatibility/forward/#disable-deployment-of-unused-opcodes",
+    "url": "https://ethereum.corepaper.org/compatibility/forward/#disable-deployment-of-unused-opcodes",
     "discussUrl": "https://github.com/corepaper/ep/issues/1"
   },
   {
     "id": "46-CHECKPOINT",
     "description": "Explicit Checkpointing",
-    "url": "https://ep.corepaper.org/error/execution/#explicit-checkpointing",
+    "url": "https://ethereum.corepaper.org/error/execution/#explicit-checkpointing",
     "discussUrl": "https://github.com/corepaper/ep/issues/2"
   },
   {
     "id": "47-CPYM",
     "description": "Consistent Copy-to-memory Behavior",
-    "url": "https://ep.corepaper.org/error/opcode/#consistent-copy-to-memory-behavior",
+    "url": "https://ethereum.corepaper.org/error/opcode/#consistent-copy-to-memory-behavior",
     "discussUrl": "https://github.com/corepaper/ep/issues/2"
   },
   {
     "id": "48-GROWM",
     "description": "Explicit Memory Growth",
-    "url": "https://ep.corepaper.org/error/opcode/#explicit-memory-growth",
+    "url": "https://ethereum.corepaper.org/error/opcode/#explicit-memory-growth",
     "discussUrl": "https://github.com/corepaper/ep/issues/2"
   }
 ]
