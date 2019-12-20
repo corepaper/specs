@@ -18,3 +18,6 @@ Paper Identifier**.
 * **[48-GROWM](https://specs.corepaper.org/48-growm)**: Explicit
   Memory
   Growth. ([Discuss](https://specs.corepaper.org/48-growm/discuss))
+* **[49-AZTLANFIX](https://specs.corepaper.org/49-aztlanfix)**: Aztlan
+  Fix Hard
+  Fork. ([Discuss](https://specs.corepaper.org/49-aztlanfix/discuss))

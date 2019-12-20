@@ -28,5 +28,11 @@
     "description": "Explicit Memory Growth",
     "url": "https://ethereum.corepaper.org/error/opcode/#explicit-memory-growth",
     "discussUrl": "https://github.com/corepaper/ep/issues/2"
+  },
+  {
+    "id": "49-AZTLANFIX",
+    "description": "Aztlan Fix Hard Fork",
+    "url": "https://ethereum.corepaper.org/fork/istanbul/#fix",
+    "discussUrl": "https://github.com/corepaper/ethereum/issues/3"
   }
 ]
