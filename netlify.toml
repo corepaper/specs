@@ -1,0 +1,9 @@
+[build]
+  command = "yarn build"
+  publish = ".vuepress/dist"
+
+[[redirects]]
+  from = "https://corepaper-specs.netlify.com/*"
+  to = "https://specs.corepaper.org/:splat"
+  status = 301
+  force = true
