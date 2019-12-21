@@ -21,3 +21,9 @@ Paper Identifier**.
 * **[49-AZTLANFIX](https://specs.corepaper.org/49-aztlanfix)**: Aztlan
   Fix Hard
   Fork. ([Discuss](https://specs.corepaper.org/49-aztlanfix/discuss))
+* **[50-SELFBALANCE](https://specs.corepaper.org/50-selfbalance)**:
+  Standalone Self
+  Balance. ([Discuss](https://specs.corepaper.org/50-selfbalance/discuss))
+* **[51-AZTLANREDO](https://specs.corepaper.org/51-aztlanredo)**:
+  Aztlan Redo Hard Fork.
+  ([Discuss](https://specs.corepaper.org/51-aztlanredo/discuss))
