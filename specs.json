@@ -39,12 +39,12 @@
     "id": "50-SELFBALANCE",
     "description": "Standalone Self Balance",
     "url": "https://ethereum.corepaper.org/fork/istanbul/#standalone-self-balance",
-    "discussUrl": "https://github.com/corepaper/ethereum/issues/3"
+    "discussUrl": "https://github.com/corepaper/corepaper/issues/3"
   },
   {
     "id": "51-AZTLANREDO",
     "description": "Aztlan Redo Hard Fork",
     "url": "https://ethereum.corepaper.org/fork/istanbul/#aztlan-redo",
-    "discussUrl": "https://github.com/corepaper/ethereum/issues/3"
+    "discussUrl": "https://github.com/corepaper/corepaper/issues/3"
   }
 ]
